@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE HEADER -->
 <h1 align="center">Hey there 👋, I'm Anish</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Data Developer</h3>
+<h3 align="center">AI & Machine Learning Enthusiast </h3>
 
 ---
 
