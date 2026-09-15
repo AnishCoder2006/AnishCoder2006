@@ -1,25 +1,29 @@
 <!-- 🌟 PROFILE HEADER -->
 <h1 align="center">Hey there 👋, I'm Anish</h1>
-<h3 align="center">Full-Stack Developer,  Currently Exploring System Design 🏗️</h3>
+<h3 align="center">Full-Stack Developer · Exploring System Design 🏗️</h3>
+
+<p align="center">
+  <a href="https://github.com/AnishCoder2006">
+    <img src="https://komarev.com/ghpvc/?username=AnishCoder2006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Computer Science undergraduate** who cares more about *why* a system is built a certain way than about just shipping another CRUD app. I like understanding the reasoning behind a design decision — not just what a feature does, but the thinking that shaped it.
+I'm a **Computer Science undergraduate** who cares more about *why* a system is built a certain way than about shipping another CRUD app. I like digging into the reasoning behind design decisions — not just what a feature does, but the thinking that shaped it.
 
-🏗️ Currently deep  diving in **system design** — SOLID, Design Patterns, queues, caching, idempotency, and the trade-offs behind them
-🌐 Building with the **MERN stack**, moving toward production-grade patterns and deployment workflows(Kafka, Redis, Docker, CI/CD)
-🎯 **Goal:** To build products that are not just   deployed,but also implement  scalable  techniques and efficient patterns to make the app reliable,securable and available to all the users.To  land a high-impact SDE role at a product company by shipping projects that hold up under real technical scrutiny, not just demo well
+- 🏗️ Currently deep-diving into **system design** — SOLID, design patterns, queues, caching, idempotency, and the trade-offs behind them
+- 🌐 Building with the **MERN stack**, moving toward production-grade patterns and deployment workflows (Kafka, Redis, Docker, CI/CD)
+- 🎯 **Goal:** To build products that are not just deployed, but also implement scalable techniques and efficient patterns — making them reliable, secure, and available to all users. Working toward a high-impact SDE role at a product company by shipping projects that hold up under real technical scrutiny, not just demo well.
 
 ---
 
-<h2 align="center">
-⚙️ TECHNOLOGY ARSENAL ⚙️
-</h2>
+<h2 align="center">⚙️ Technology Arsenal ⚙️</h2>
 
 <p align="center">
-Building and deploying full-stack systems, backed by an understanding of how they scale.
+  <em>Building and deploying full-stack systems, backed by an understanding of how they scale.</em>
 </p>
 
 ---
@@ -77,10 +81,28 @@ Building and deploying full-stack systems, backed by an understanding of how the
 
 ## 🚀 Featured Projects
 
-- **Student Record Management System** — Full-stack MERN platform with 3 role-based portals, event-driven payments (Kafka + idempotent consumers), Redis caching, Socket.IO real-time features, JWT + TOTP MFA, and CI/CD via GitHub Actions.
-- **VoiceShield** — Voice deepfake/spoof detection system (Smart India Hackathon project) with dual PyTorch/ONNX inference engines supporting English and Indic languages.
-- **Federal Job AI Assistant** — Started as a Streamlit + CrewAI prototype, being rebuilt as a full MERN application with expanded system-design components.
-- **Dayflow HRMS** — Free-stack HRMS built with a 4-person team for an Odoo hackathon.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Student Record Management System</h3>
+      <p>Full-stack MERN platform with 3 role-based portals, event-driven payments (Kafka + idempotent consumers), Redis caching, Socket.IO real-time features, JWT + TOTP MFA, and CI/CD via GitHub Actions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VoiceShield</h3>
+      <p>Voice deepfake/spoof detection system (Smart India Hackathon project) with dual PyTorch/ONNX inference engines supporting English and Indic languages.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Federal Job AI Assistant</h3>
+      <p>Started as a Streamlit + CrewAI prototype, now being rebuilt as a full MERN application with expanded system-design components.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dayflow HRMS</h3>
+      <p>Full-stack HRMS built with a 4-person team for an Odoo hackathon.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -93,6 +115,14 @@ Building and deploying full-stack systems, backed by an understanding of how the
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishCoder2006&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnishCoder2006/AnishCoder2006/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
 ---
