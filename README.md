@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE HEADER -->
 <h1 align="center">Hey there 👋, I'm Anish</h1>
-<h3 align="center">Full-Stack Developer, sharpening my System Design 🏗️</h3>
+<h3 align="center">Full-Stack Developer,  Currently Exploring System Design 🏗️</h3>
 
 ---
 
@@ -8,9 +8,9 @@
 
 I'm a **Computer Science undergraduate** who cares more about *why* a system is built a certain way than about just shipping another CRUD app. I like understanding the reasoning behind a design decision — not just what a feature does, but the thinking that shaped it.
 
-🏗️ Currently deep in **system design** — queues, caching, idempotency, and the trade-offs behind them
-🌐 Building with the **MERN stack**, moving toward production-grade patterns (Kafka, Redis, Docker, CI/CD)
-🎯 **Goal:** land a high-impact SDE role at a product company by shipping projects that hold up under real technical scrutiny, not just demo well
+🏗️ Currently deep  diving in **system design** — SOLID, Design Patterns, queues, caching, idempotency, and the trade-offs behind them
+🌐 Building with the **MERN stack**, moving toward production-grade patterns and deployment workflows(Kafka, Redis, Docker, CI/CD)
+🎯 **Goal:** To build products that are not just   deployed,but also implement  scalable  techniques and efficient patterns to make the app reliable,securable and available to all the users.To  land a high-impact SDE role at a product company by shipping projects that hold up under real technical scrutiny, not just demo well
 
 ---
 
