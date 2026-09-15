@@ -122,7 +122,11 @@ I'm a **Computer Science undergraduate** who cares more about *why* a system is 
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnishCoder2006/AnishCoder2006/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishCoder2006/AnishCoder2006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishCoder2006/AnishCoder2006/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AnishCoder2006/AnishCoder2006/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
