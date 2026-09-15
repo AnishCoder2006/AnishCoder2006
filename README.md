@@ -115,18 +115,6 @@ I'm a **Computer Science undergraduate** who cares more about *why* a system is 
 
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishCoder2006&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=AnishCoder2006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Graph
