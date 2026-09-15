@@ -106,15 +106,26 @@ I'm a **Computer Science undergraduate** who cares more about *why* a system is 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnishCoder2006&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishCoder2006&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnishCoder2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnishCoder2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishCoder2006&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishCoder2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnishCoder2006&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AnishCoder2006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
 </div>
 
 ---
